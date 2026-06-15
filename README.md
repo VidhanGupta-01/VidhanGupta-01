@@ -20,7 +20,7 @@ profile = {
 
 ### Tech Stack
 
-[![Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,numpy,pandas,jupyter,git,github,linux,vscode,aws,blender,cs,gmail,linkedin,notion,opencv,ps,postgres,powershell,sqlite,unity)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,git,github,linux,vscode,aws,blender,cs,gmail,linkedin,notion,opencv,ps,postgres,powershell,sqlite,unity)](https://skillicons.dev)
 
 ---
 
