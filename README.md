@@ -44,7 +44,7 @@ profile = {
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/VidhanGupta-01/VidhanGupta-01/raw/output/dist/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/VidhanGupta-01/VidhanGupta-01/raw/output/dist/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://github.com/VidhanGupta-01/VidhanGupta-01/raw/output/dist/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://github.com/VidhanGupta-01/VidhanGupta-01/raw/output/dist/github-contribution-grid-snake.svg" />
 </picture>
 ---
 
