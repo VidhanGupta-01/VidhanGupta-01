@@ -30,11 +30,23 @@ github.com/VidhanGupta-01
 ```
 
 ---
+## Tech Arsenal
 
-### Tech Stack
+<div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,git,github,linux,vscode,aws,blender,cs,gmail,linkedin,notion,opencv,ps,postgres,powershell,sqlite,unity)](https://skillicons.dev)
+### AI LAB
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv" />
 
+### SYSTEMS CORE
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,aws,docker,postgres,sqlite,powershell" />
+
+### CREATIVE SUITE
+<img src="https://skillicons.dev/icons?i=unity,blender,ps" />
+
+### NETWORK HUB
+<img src="https://skillicons.dev/icons?i=gmail,linkedin,notion" />
+
+</div>
 ---
 
 ### GitHub Analytics
