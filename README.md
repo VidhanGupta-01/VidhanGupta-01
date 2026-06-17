@@ -7,19 +7,26 @@
 </p>
 
 ---
+## Neural Core
 
-### About Me
+```console
+> whoami
+Vidhan Gupta
 
-```python
-profile = {
-    "name":        "Vidhan Gupta",
-    "located_in":  "India",
-    "education":   "B.Tech @ NIT Trichy",
-    "focus":       ["Artificial Intelligence", "Machine Learning", "Computer Vision"],
-    "currently":   "Building real-world AI/ML projects",
-    "interests":   ["Computer Vision", "NLP", "Data Science"],
-    "reach_me":    "github.com/VidhanGupta-01"
-}
+> education
+B.Tech @ NIT Trichy
+
+> focus
+AI | ML | Computer Vision | Quant Research
+
+> current_status
+Building intelligent systems and real-world AI applications.
+
+> mission
+Learn. Build. Innovate.
+
+> reach_me
+github.com/VidhanGupta-01
 ```
 
 ---
