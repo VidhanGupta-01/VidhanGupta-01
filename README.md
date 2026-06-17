@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,50:A26AF7,100:58A6FF&section=header"/>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Science+Gothic&pause=1000&color=A26AF7&center=true&vCenter=true&width=435&lines=Hey+there+!+Wassup+%3F)](https://git.io/typing-svg)
 
 ---
