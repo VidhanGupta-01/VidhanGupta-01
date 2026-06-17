@@ -73,7 +73,7 @@ github.com/VidhanGupta-01
 ---
 
 
-### Contribution Snake
+### Activity Genome
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/VidhanGupta-01/VidhanGupta-01/raw/output/github-contribution-grid-snake-dark.svg" />
