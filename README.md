@@ -95,4 +95,12 @@ github.com/VidhanGupta-01
 
 ---
 
-*"Being Creative & Curious"*
+<div align="center">
+
+## Being Creative & Curious
+
+"Building today what others imagine tomorrow"
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0D1117,50:A26AF7,100:58A6FF"/>
+
+</div>
