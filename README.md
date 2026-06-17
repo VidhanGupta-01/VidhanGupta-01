@@ -95,6 +95,20 @@ github.com/VidhanGupta-01
 
 ---
 
+<details>
+<summary> Open Neural Core</summary>
+
+```python
+while True:
+    learn()
+    build()
+    innovate()
+```
+
+</details>
+
+---
+
 <div align="center">
 
 ## Being Creative & Curious
