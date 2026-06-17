@@ -47,14 +47,20 @@ github.com/VidhanGupta-01
 <img src="https://skillicons.dev/icons?i=gmail,linkedin,notion" />
 
 </div>
+
 ---
 
-### GitHub Analytics
+## GitHub Analytics
 
-![Vidhan's GitHub Stats](https://github-readme-stats.shion.dev/api?username=VidhanGupta-01&show_icons=true&theme=radical&show=prs_merged,prs_merged_percentage&hide_border=true&border_radius=10)
-![Streak](https://streak-stats.demolab.com?user=VidhanGupta-01&theme=radical&hide_border=true&border_radius=10)
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=VidhanGupta-01&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=15&show=prs_merged,prs_merged_percentage" />
+  
+  <img width="49%" src="https://streak-stats.demolab.com?user=VidhanGupta-01&theme=midnight-purple&hide_border=true&border_radius=15" />
+</p>
 
-[![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=VidhanGupta-01&layout=compact&theme=radical&hide_border=true&border_radius=10)](https://github.com/VidhanGupta-01)
+<p align="center">
+  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VidhanGupta-01&theme=tokyonight" />
+</p>
 
 ---
 
