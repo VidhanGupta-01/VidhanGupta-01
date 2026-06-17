@@ -64,11 +64,14 @@ github.com/VidhanGupta-01
 
 ---
 
-### Achievements
+## Achievement Matrix
 
-[![trophy](https://gh-trophy.cdnsoft.net/?username=VidhanGupta-01&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/VidhanGupta-01)
+<p align="center">
+  <img src="https://gh-trophy.cdnsoft.net/?username=VidhanGupta-01&theme=algolia&no-frame=true&margin-w=10&row=1&column=6" />
+</p>
 
 ---
+
 
 ### Contribution Snake
 
