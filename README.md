@@ -6,7 +6,7 @@
   </a>
 </p>
 
----
+
 ## Neural Core
 
 ```console
@@ -29,7 +29,7 @@ Learn. Build. Innovate.
 github.com/VidhanGupta-01
 ```
 
----
+
 ## Tech Arsenal
 
 <div align="center">
@@ -48,7 +48,7 @@ github.com/VidhanGupta-01
 
 </div>
 
----
+
 
 ## GitHub Analytics
 
@@ -62,7 +62,7 @@ github.com/VidhanGupta-01
   <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VidhanGupta-01&theme=tokyonight" />
 </p>
 
----
+
 
 ## Achievement Matrix
 
@@ -70,7 +70,7 @@ github.com/VidhanGupta-01
   <img src="https://gh-trophy.cdnsoft.net/?username=VidhanGupta-01&theme=algolia&no-frame=true&margin-w=10&row=1&column=6" />
 </p>
 
----
+
 
 
 ### Activity Genome
@@ -80,20 +80,20 @@ github.com/VidhanGupta-01
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/VidhanGupta-01/VidhanGupta-01/raw/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution snake animation" src="https://github.com/VidhanGupta-01/VidhanGupta-01/raw/output/github-contribution-grid-snake.svg" />
 </picture>
----
+
 
 ### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vidhanguptaofficial)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VidhanGupta-01)
 
----
+
 
 ![](https://img.shields.io/badge/From-India-blue?style=flat-square)
 ![](https://img.shields.io/badge/College-NIT_Trichy-purple?style=flat-square)
 [![views](https://komarev.com/ghpvc/?username=VidhanGupta-01&label=Profile+Views&color=0e75b6&style=flat)](https://github.com/VidhanGupta-01)
 
----
+
 
 <details>
 <summary> Open Neural Core</summary>
@@ -107,7 +107,7 @@ while True:
 
 </details>
 
----
+
 
 <div align="center">
 
