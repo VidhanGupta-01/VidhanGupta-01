@@ -1,10 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D0D0D,50:8B0000,100:E50914&section=header"/>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=28&duration=3000&pause=1000&color=FF4C4C&center=true&vCenter=true&width=900&lines=Vidhan+Gupta;AI+%C3%97+Quant+%C3%97+Systems;Computer+Vision+Engineer;Building+Intelligent+Systems" alt="Typing SVG" />
-  </a>
-</p>
+<img width="100%" src="assets/banner-header.svg"/>
 
 ## Neural Core
 
@@ -92,8 +86,6 @@ while True:
 
 ## Being Creative & Curious
 
-"Building today what others imagine tomorrow"
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0D0D0D,50:8B0000,100:E50914"/>
+<img width="100%" src="assets/banner-footer.svg"/>
 
 </div>
