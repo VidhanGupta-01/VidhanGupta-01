@@ -1,0 +1,41 @@
+<svg width="100%" height="140" viewBox="0 0 1200 140" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradF" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0D0D0D"/>
+      <stop offset="50%" stop-color="#1A0505"/>
+      <stop offset="100%" stop-color="#0D0D0D"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0D0D0D"/>
+      <stop offset="50%" stop-color="#E50914"/>
+      <stop offset="100%" stop-color="#0D0D0D"/>
+    </linearGradient>
+    <filter id="glowF" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="140" fill="url(#bgGradF)"/>
+
+  <!-- top glowing divider line -->
+  <rect x="0" y="0" width="1200" height="2" fill="url(#lineGrad)" filter="url(#glowF)"/>
+
+  <!-- moving pulse along the line -->
+  <circle cy="1" r="4" fill="#FF4C4C" filter="url(#glowF)">
+    <animate attributeName="cx" from="-20" to="1220" dur="5s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- quote -->
+  <text x="600" y="75" text-anchor="middle" font-family="'Courier New', monospace" font-weight="600" font-size="20" fill="#FF4C4C" filter="url(#glowF)">
+    "Building today what others imagine tomorrow"
+  </text>
+
+  <!-- small tag -->
+  <text x="600" y="105" text-anchor="middle" font-family="'Courier New', monospace" font-size="13" letter-spacing="4" fill="#8B8B8B">
+    EOF
+  </text>
+</svg>

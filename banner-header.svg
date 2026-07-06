@@ -1,0 +1,85 @@
+<svg width="100%" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D0D0D"/>
+      <stop offset="55%" stop-color="#1A0505"/>
+      <stop offset="100%" stop-color="#0D0D0D"/>
+    </linearGradient>
+    <radialGradient id="glowCore" cx="50%" cy="45%" r="60%">
+      <stop offset="0%" stop-color="#E50914" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#E50914" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF4C4C"/>
+      <stop offset="50%" stop-color="#E50914"/>
+      <stop offset="100%" stop-color="#8B0000"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="220" fill="url(#bgGrad)"/>
+  <rect width="1200" height="220" fill="url(#glowCore)"/>
+
+  <!-- circuit grid, faint -->
+  <g stroke="#8B0000" stroke-width="0.6" opacity="0.18">
+    <line x1="0" y1="30" x2="1200" y2="30"/>
+    <line x1="0" y1="190" x2="1200" y2="190"/>
+    <line x1="100" y1="0" x2="100" y2="220"/>
+    <line x1="1100" y1="0" x2="1100" y2="220"/>
+    <path d="M0 60 H80 V90 H160" fill="none"/>
+    <path d="M1200 60 H1120 V90 H1040" fill="none"/>
+    <path d="M0 150 H120 V130 H220" fill="none"/>
+    <path d="M1200 150 H1080 V130 H980" fill="none"/>
+  </g>
+  <g fill="#E50914" opacity="0.5">
+    <circle cx="80" cy="90" r="2.5"/>
+    <circle cx="160" cy="90" r="2.5"/>
+    <circle cx="1120" cy="90" r="2.5"/>
+    <circle cx="1040" cy="90" r="2.5"/>
+    <circle cx="120" cy="130" r="2.5"/>
+    <circle cx="1080" cy="130" r="2.5"/>
+  </g>
+
+  <!-- corner brackets -->
+  <g stroke="#FF4C4C" stroke-width="2" fill="none" opacity="0.85">
+    <path d="M30 25 L30 45 M30 25 L50 25"/>
+    <path d="M1170 25 L1170 45 M1170 25 L1150 25"/>
+    <path d="M30 195 L30 175 M30 195 L50 195"/>
+    <path d="M1170 195 L1170 175 M1170 195 L1150 195"/>
+  </g>
+
+  <!-- scanline -->
+  <rect x="-20" y="0" width="6" height="220" fill="#FF4C4C" opacity="0.25">
+    <animate attributeName="x" from="-20" to="1200" dur="4.5s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- title -->
+  <text x="600" y="108" text-anchor="middle" font-family="'Courier New', monospace" font-weight="700" font-size="52" letter-spacing="6" fill="url(#textGrad)" filter="url(#glow)">
+    VIDHAN GUPTA
+    <animate attributeName="opacity" values="1;0.85;1;1;0.9;1" dur="3.2s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- subtitle -->
+  <text x="600" y="145" text-anchor="middle" font-family="'Courier New', monospace" font-weight="500" font-size="17" letter-spacing="7" fill="#C9D1D9" filter="url(#softGlow)">
+    AI &#215; QUANT &#215; SYSTEMS ENGINEER
+  </text>
+
+  <!-- terminal cursor accent -->
+  <text x="600" y="170" text-anchor="middle" font-family="'Courier New', monospace" font-size="14" fill="#FF4C4C">
+    &gt; building_intelligent_systems_
+    <animate attributeName="opacity" values="1;1;0;0" dur="1.2s" repeatCount="indefinite"/>
+  </text>
+</svg>
